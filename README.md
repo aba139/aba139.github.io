@@ -25,7 +25,7 @@
             Im dritten Abschitt soll der selbe Text stehen: Vergessen Sie nicht, dass der Auerhahn ein großer Vogel ist und nicht so einfach von jedem gejagt werden kann. Auch wenn Sie sich es nicht vorstellen könnne, es macht einen großen Unterschied. Nach wie vor können wir unsinnige Texte nicht so leicht erstellen. Unser Gehirn sucht nach etwas, was Bedeutung hat und unsere Aufmerksamkeit nachhaltig bindet. Gehen Sie in einen grünen Wald und es wird alles gut. Ja, das geht. Finden Sie nicht, doch doch. Jeder weß das.
         </p>
             <a href ="#inhaltsverzechnis">Zurück zum Inhaltsverzeichnis</a>
-        <h2 id = "abschnitt4">Abschnitt 3</h2>
+        <h2 id = "abschnitt4">Abschnitt 4</h2>
         <p>
             Im vierten Abschitt soll der selbe Text stehen: Vergessen Sie nicht, dass der Auerhahn ein großer Vogel ist und nicht so einfach von jedem gejagt werden kann. Auch wenn Sie sich es nicht vorstellen könnne, es macht einen großen Unterschied. Nach wie vor können wir unsinnige Texte nicht so leicht erstellen. Unser Gehirn sucht nach etwas, was Bedeutung hat und unsere Aufmerksamkeit nachhaltig bindet. Gehen Sie in einen grünen Wald und es wird alles gut. Ja, das geht. Finden Sie nicht, doch doch. Jeder weß das.</p>
             <a href ="#inhaltsverzechnis">Zurück zum Inhaltsverzeichnis</a>
