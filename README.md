@@ -3,8 +3,8 @@
     <head>
         <title>Inhaltsverzeichnis</title>
         <meta charset="UTF-8">
-        <meta author="Anita Pfander">
-    </head>
+        <meta name="author" content="Anita Pfander">
+        </head>
     <body>
         <h1 id="inhaltsverzeichnis">Inhaltsverzeichnis</h1>
         <a href="#abschnitt1">Abschnitt 1</a><br>
